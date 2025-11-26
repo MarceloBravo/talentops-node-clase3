@@ -1,0 +1,54 @@
+{
+  "fechaGeneracion": "2025-11-26T23:39:52.980Z",
+  "totalArchivos": 7,
+  "estadisticasGlobales": {
+    "totalPalabras": 87,
+    "totalCaracteres": 523,
+    "promedioPalabras": 12,
+    "archivosProcesados": 7
+  },
+  "detalleArchivos": [
+    {
+      "palabras": 15,
+      "caracteres": 92,
+      "lineas": 5,
+      "ruta": "demo-archivos\\copia-notas.md"
+    },
+    {
+      "palabras": 11,
+      "caracteres": 66,
+      "lineas": 1,
+      "ruta": "demo-archivos\\documento1-COPY.txt"
+    },
+    {
+      "palabras": 11,
+      "caracteres": 66,
+      "lineas": 1,
+      "ruta": "demo-archivos\\documento1-MAYUS.txt"
+    },
+    {
+      "palabras": 11,
+      "caracteres": 66,
+      "lineas": 1,
+      "ruta": "demo-archivos\\documento1-mayusculas.txt"
+    },
+    {
+      "palabras": 11,
+      "caracteres": 66,
+      "lineas": 1,
+      "ruta": "demo-archivos\\documento1.txt"
+    },
+    {
+      "palabras": 13,
+      "caracteres": 75,
+      "lineas": 1,
+      "ruta": "demo-archivos\\documento2.txt"
+    },
+    {
+      "palabras": 15,
+      "caracteres": 92,
+      "lineas": 5,
+      "ruta": "demo-archivos\\notas.md"
+    }
+  ]
+}
